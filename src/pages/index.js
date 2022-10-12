@@ -47,7 +47,7 @@ export default function Page() {
         <div className="container">
           <section className="hero text-center">
             <Heading className={styles.heading} level="h1">
-              Welcome to WP Engine UK
+              Welcome to Brighton
             </Heading>
             <p className={styles.description}>
               Achieve unprecedented performance with modern frameworks and the
